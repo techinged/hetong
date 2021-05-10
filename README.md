@@ -6,3 +6,6 @@
 2、双击运行“极简合同.exe”即可运行软件。从“帮助”目录可以查看帮助文件和示例数据。  
 
 如果有问题，请发Email至techinged@qq.com或者430353916@qq.com 
+
+软件运行界面如下截图所示：
+![软件运行界面](https://github.com/techinged/hetong/blob/main/etc/images/1.png)
