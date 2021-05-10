@@ -8,4 +8,4 @@
 如果有问题，请发Email至techinged@qq.com或者430353916@qq.com 
 
 软件运行界面如下截图所示：  
-![软件运行界面](etc/images/1.png)  
+![软件运行界面](etc/images/3.png)    
